@@ -1,0 +1,91 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 595.18px;
+    height: 500px;
+    margin-left: 280px;
+    margin-top: 5%;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+
+}
+
+.header-1 {
+    font-weight: 400;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 30px;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+
+}
+
+.button-header {
+    margin-left: 1px;
+    background: #4CB538;
+    border: 1px solid #4CB538;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    width: 100px;
+    height: 40px;
+    color: white;
+
+}
+
+.caixa-1 {
+    display: inline-block;
+}
+
+.caixa-2 {
+    display: inline-block;
+    margin-left: 200px;
+    position: fixed;
+    top: 38%;
+
+
+}
+
+
+p {
+    width: 500px;
+    margin-top: 50px;
+}
+
+h1 {
+font-size: 62px;
+width: 582px;
+height: 164px;
+
+}
+
+.Button-2 {
+    margin-top: 20px;
+    background: #4CB538;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    width: 100px;
+    height: 40px;
+    color: white;
+}
+
+h1 {
+    color: #161A49;
+    width: 582px;
+    height: 164px;
+}
+
+p {
+    color: #4B505A;
+    width: 493px;
+    height: 99px;
+}
